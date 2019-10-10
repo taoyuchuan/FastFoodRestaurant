@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.xml
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.frmMain.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.xml
+c:\users\administrator\documents\visual studio 2015\Projects\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
